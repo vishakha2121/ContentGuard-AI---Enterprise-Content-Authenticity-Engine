@@ -20310,7 +20310,6 @@ local.settings.json
 !**/sample_data/
 !**/sample.*
 !**/*.sample.*
-
 # Track empty directories
 !**/.gitkeep
 
